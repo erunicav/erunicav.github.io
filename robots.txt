@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erunicav.github.io/sitemap.html.gz
+Sitemap: https://erunicav.github.io/app/sitemap.html.gz
+Sitemap: https://erunicav.github.io/assets/sitemap.html.gz
+Sitemap: https://erunicav.github.io/css/sitemap.html.gz
+Sitemap: https://erunicav.github.io/includes/sitemap.html.gz
+Sitemap: https://erunicav.github.io/item/sitemap.html.gz
+Sitemap: https://erunicav.github.io/src/sitemap.html.gz
